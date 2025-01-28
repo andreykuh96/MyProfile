@@ -2,3 +2,7 @@
   font-size: 60px;
   text-align: center;
 }
+.subtitle {
+  color: green;
+  object-fit: cover;
+}
